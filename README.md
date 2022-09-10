@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nafis-muktashid-arpon
-- 👀 I’m interested in ...
+- 👀 I’m interested in C, C++, C#, JAVA, Python, JavaScript. 
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on competetive programming.
 - 📫 How to reach me-Email me at ' arponbolche@gmail.com '
 
 <!---
